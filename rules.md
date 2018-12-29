@@ -44,8 +44,8 @@ Các bài viết có dạng như sau sẽ KHÔNG được duyệt:
 ### VỀ BÀI LỌC ĐỊNH KỲ
 
 Hằng tháng vào ngày 15 sẻ có 1 bài lọc thành viên trong nhóm của BQT
-- **KHÔNG** tương tác bình luận trong bài lọc của BQT **KICK**
-- **KHÔNG** "chấm" (".") hoặc "hóng" trong bài lọc của BQT **KICK**
+- **KHÔNG** tương tác bình luận trong bài lọc của BQT 
+- **KHÔNG** "chấm" (".") hoặc "hóng" trong bài lọc của BQT 
 
 ### VỀ HASHTAG
 
