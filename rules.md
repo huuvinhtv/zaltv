@@ -32,7 +32,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 
 Nhóm được quản lý bởi [ZalTV](https://www.google.com.vn/search?q=zaltv) nên ưu tiên chủ đề về ZalTV, thảo luận các app xem tv. Chấp nhận các bài giải trí (miễn là không quá nhảm).
 
-Các bài viết có dạng như sau sẽ KHÔNG được duyệt:
+Các bài viết có dạng như sau sẽ **KHÔNG** được duyệt:
 - Hỏi hoặc chia sẻ cách HACK tài khoản mạng xã hội (Facebook, Google,...) của người khác.
 - Hỏi hoặc chia sẻ cách KHÓA ("RIP") tài khoản Facebook của người khác.
 - Các bài liên quan tới chủ đề chia sẻ tool DoS/DDoS/virus/botnet/malware. Bài về bảo mật và cách phòng chống thì được duyệt nhé.
