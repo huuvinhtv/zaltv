@@ -53,7 +53,7 @@ Hãy tham khảo [danh sách #hashtag sử dụng trong nhóm](hashtags.md) đ�
 
 Ví dụ về một [bài viết](https://www.facebook.com/groups/zaltv/permalink/1962583054047901/) sử dụng hashtag:
 
-![hashtag](https://i.postimg.cc/1t3s3L2R/noiquy.png)
+![hashtag](https://i.postimg.cc/kXLnnY7K/noiquy.png)
 
 ## NỘI QUY ĐĂNG BÌNH LUẬN
 
