@@ -1,4 +1,4 @@
-![J2TEAM Community](https://3.bp.blogspot.com/-ASwf6KwwdAM/Wdo7LXx0hkI/AAAAAAAAD8o/vSNWFYpVaogD65JMfwCmMOtXJOeby5SKgCLcBGAs/s1600/j2team-community-birthday.png)
+![ZalTV Community](https://3.bp.blogspot.com/-ASwf6KwwdAM/Wdo7LXx0hkI/AAAAAAAAD8o/vSNWFYpVaogD65JMfwCmMOtXJOeby5SKgCLcBGAs/s1600/j2team-community-birthday.png)
 
 # NỘI QUY NHÓM ZALTV COMMUNITY
 
@@ -17,12 +17,12 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 
 ### VỀ NỘI DUNG
 - Sử dụng tiếng Việt, có dấu, tránh viết tắt. Tuyệt đối **KHÔNG** được sử dụng teen code. **KHÔNG** sử dụng các từ ngữ tục tĩu, khiếm nhã, thiếu văn hóa.
-- Sử dụng hashtag để phân loại nội dung bài viết, giúp mọi người dễ dàng tìm bài khi có thắc mắc. Xem thêm cụ thể tại phần [về hashtag](#v%E1%BB%80-hashtag).
-- **KHÔNG** đăng bài viết quảng cáo (rao vặt, bán sim,...). Có thể đăng bài viết tuyển dụng các công việc liên quan tới ngành nghề CNTT.
+- Sử dụng hashtag để phân loại nội dung bài viết, giúp mọi người dễ dàng tìm bài khi có thắc mắc. Xem thêm cụ thể tại phần [về hashtag](hashtags.md).
+- **KHÔNG** đăng bài viết quảng cáo (rao vặt, bán sim,...). 
 - Nếu đăng bài hỏi đáp, hãy **tìm hiểu trước qua Google** để tránh hỏi những vấn đề đã có sẵn câu trả lời. Hỏi phải nói có đầu có đuôi, nói rõ vấn đề vướng mắc, **KHÔNG** hỏi trống lóc.
 - Dùng chức năng tìm kiếm bài viết trong nhóm trước khi đăng để tránh việc **trùng lặp nội dung**.
 - **KHÔNG** sử dụng các liên kết rút gọn (ouo, adfly, link5s...) hoặc liên kết giới thiệu (ref) trong bài viết với mục đích kiếm lợi nhuận từ nhóm.
-- Nếu đăng bài viết về các list xem TV hãy sử dụng các trang như [pastebin.com](http://pastebin.com) hoặc [gist.github.com](https://gist.github.com/) để đăng code thay vì paste thẳng code trong bài viết.
+- Nếu đăng bài viết về các list xem TV hãy sử dụng các trang như [pastebin.com](http://pastebin.com) [textuploader.com](https://textuploader.com) hoặc hoặc [gist.github.com](https://gist.github.com/) để đăng code thay vì paste thẳng code trong bài viết.
 - Nếu bài viết, tài nguyên không phải là của bạn thì hãy **ghi nguồn** khi chia sẻ vào nhóm để tôn trọng công sức của tác giả.
 - **KHÔNG** yêu cầu người khác cung cấp email trong bình luận. Nếu thực sự cần thiết phải chia sẻ qua email thì vui lòng sử dụng Google Forms.
 
@@ -43,9 +43,9 @@ Các bài viết có dạng như sau sẽ KHÔNG được duyệt:
 
 Hãy tham khảo [danh sách #hashtag sử dụng trong nhóm](hashtags.md) để áp dụng cho nội dung bài viết của bạn một cách hợp lý.
 
-Ví dụ về một [bài viết](https://www.facebook.com/groups/j2team.community/permalink/413843845614408/) sử dụng hashtag:
+Ví dụ về một [bài viết](https://www.facebook.com/groups/zaltv/permalink/1962583054047901/) sử dụng hashtag:
 
-![hashtag](https://i.imgur.com/qPJ1UgT.png)
+![hashtag](https://i.postimg.cc/1t3s3L2R/noiquy.png)
 
 ## NỘI QUY ĐĂNG BÌNH LUẬN
 
