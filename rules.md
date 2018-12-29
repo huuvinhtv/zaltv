@@ -10,6 +10,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 - Vừa tham gia Facebook được 1-3 ngày.
 - Tài khoản có dấu hiệu là nick ảo, không hoạt động (vừa thay ảnh đại diện, ảnh bìa vài phút trước và không có bài đăng nào trên trang cá nhân).
 - Tài khoản không có tên hiển thị (Facebook ma) hoặc tên sử dụng ký tự đặc biệt.
+-  Tài khoản không có avatar hiển thị (Facebook ma) hoặc avatar không phải người thật.
 
 **Đặc biệt chú ý:** Bất cứ ai chặn (block) thành viên trong Ban Quản Trị sẽ bị chặn khỏi nhóm.
 
@@ -25,6 +26,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 - Nếu đăng bài viết về các list xem TV hãy sử dụng các trang như [pastebin.com](http://pastebin.com), [textuploader.com](https://textuploader.com) hoặc [gist.github.com](https://gist.github.com/) để đăng code thay vì paste thẳng code trong bài viết.
 - Nếu bài viết, tài nguyên không phải là của bạn thì hãy **ghi nguồn** khi chia sẻ vào nhóm để tôn trọng công sức của tác giả.
 - **KHÔNG** yêu cầu người khác cung cấp email trong bình luận. Nếu thực sự cần thiết phải chia sẻ qua email thì vui lòng sử dụng Google Forms.
+- **KHÔNG** chia sẻ code ZalTV ra bên ngoài nhóm. Ai chia sẻ ra bên ngoài nhóm ZalTV **band** vĩnh viễn.
 
 ### VỀ CHỦ ĐỀ
 
@@ -38,6 +40,12 @@ Các bài viết có dạng như sau sẽ KHÔNG được duyệt:
 - Bài viết mang tính chất PR cho nhóm, page để câu kéo thành viên.
 - Hỏi xin key, crack, phần mềm bản quyền.
 - Bài chỉ có mỗi liên kết mà không có mô tả gì (spam câu view).
+
+### VỀ BÀI LỌC ĐỊNH KỲ
+
+Hằng tháng vào ngày 15 sẻ có 1 bài lọc thành viên trong nhóm của BQT
+- **KHÔNG** bình luận trong bài lọc của BQT **KICK**
+- **KHÔNG** "chấm" (".") hoặc "hóng" trong bài lọc của BQT **KICK**
 
 ### VỀ HASHTAG
 
