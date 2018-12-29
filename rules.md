@@ -62,6 +62,7 @@ Ví dụ về một [bài viết](https://www.facebook.com/groups/zaltv/permalin
 - Nội dung bài viết không vừa lòng thì góp ý một cách lịch sự, không chê bai quá đáng, khiêu khích. Hoặc đơn giản chỉ cần bỏ qua, đọc bài khác.
 - **KHÔNG** "chấm" (".") hoặc "hóng", hãy dùng chức năng "Bật thông báo cho bài viết" hoặc "Lưu bài viết" nếu bạn muốn theo dõi cập nhật của bài viết.
 - **KHÔNG** spam, dùng chức năng "Sửa bình luận" thay vì bình luận liên tiếp trong thời gian ngắn.
+- **KHÔNG** dẫn link page khác để câu kéo thành viên.
 
 ## HÌNH THỨC XỬ LÝ THÀNH VIÊN VI PHẠM
 
