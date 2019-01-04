@@ -7,7 +7,7 @@
 ## NỘI QUY VỀ TÀI KHOẢN
 
 Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia nhóm:
-- Vừa tham gia Facebook được 1-3 ngày.
+- Vừa tham gia Facebook được 1 tháng khi xin vào nhóm.
 - Tài khoản có dấu hiệu là nick ảo, không hoạt động (vừa thay ảnh đại diện, ảnh bìa vài phút trước và không có bài đăng nào trên trang cá nhân).
 - Tài khoản không có tên hiển thị (Facebook ma) hoặc tên sử dụng ký tự đặc biệt.
 -  Tài khoản không có avatar hiển thị (Facebook ma) hoặc avatar không phải người thật.
@@ -66,8 +66,8 @@ Ví dụ về một [bài viết](https://www.facebook.com/groups/zaltv/permalin
 
 ## HÌNH THỨC XỬ LÝ THÀNH VIÊN VI PHẠM
 
-Tùy theo mức độ vi phạm nội quy mà các bạn có thể sẽ bị nhắc nhở, **XÓA** bài viết, **KICK** hoặc **BAN** vĩnh viễn khỏi nhóm.
-
+Tùy theo mức độ vi phạm nội quy mà các bạn có thể sẽ bị nhắc nhở, **XÓA** bài viết, **KICK** hoặc **BAN** vĩnh viễn khỏi nhóm mà không cần báo trước.
+ 
 ---
 
 Nếu thấy bài viết hoặc bình luận vi phạm nội quy, hãy dùng chức năng "Báo cáo tới quản trị viên" hoặc tag thành viên BQT vào bài viết đó.
