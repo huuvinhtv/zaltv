@@ -16,6 +16,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #zaltv_chiasecode | Chia sẻ (code zaltv)                             |
 | #zaltv_thongbao   | Thông báo từ BQT                                 |
 | #zaltv_locmem     | Thông báo lọc mem                                |
+| #zaltv_lich       | Chia sẻ lịch bóng đá, giờ các trận đấu           |
 | #zaltv_ungdung    | Chia sẻ ứng dụng                                 |
 | #zaltv_thugian    | Ảnh, video hoặc nội dung giải trí                |
 | #zaltv_huongdan   | Hướng dẫn lập trình hoặc chia sẻ kiến thức       |
