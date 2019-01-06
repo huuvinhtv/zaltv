@@ -7,7 +7,7 @@
 ## NỘI QUY VỀ TÀI KHOẢN
 
 Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia nhóm:
-- Vừa tham gia Facebook được 1 tháng khi xin vào nhóm.
+- Vừa tham gia Facebook được 3 tháng khi xin vào nhóm.
 - Tài khoản có dấu hiệu là nick ảo, không hoạt động (vừa thay ảnh đại diện, ảnh bìa vài phút trước và không có bài đăng nào trên trang cá nhân).
 - Tài khoản không có tên hiển thị (Facebook ma) hoặc tên sử dụng ký tự đặc biệt.
 -  Tài khoản không có avatar hiển thị (Facebook ma) hoặc avatar không phải người thật.
