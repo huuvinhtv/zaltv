@@ -1,18 +1,10 @@
 # HỆ THỐNG XẾP HẠNG THÀNH VIÊN TRONG NHÓM
 
-Nhóm [J2TeaM Community](https://www.facebook.com/groups/j2team.community/) được duy trì và phát triển bởi một hệ thống xếp hạng: **J2TeaM Community Ranking**.
+Những điều bạn cần biết về hệ thống xếp hạng thành viên
 
-Ở đây là tất cả những gì mà bạn cần biết về hệ thống này.
+## 4IT Community Ranking hoạt động như thế nào?
 
-## Lý do J2TeaM Community Ranking được tạo ra
-
-Nhóm J2TeaM Community được tạo ra vào ngày 06/10/2016 bởi Juno_okyo. Sau ngày đầu tiên nhóm đã có hơn **1000** thành viên tham gia. Tới gần cuối tháng 12, tức sau 2 tháng hoạt động thì nhóm có tới **hơn 4000 thành viên**. Dù đây là con số không hề nhỏ, nhưng tương tác của nhóm khá là thấp, một ngày chỉ có vài bài đăng và nội dung cũng khá là nhạt nhẽo.
-
-Cảm thấy tình hình của nhóm chẳng hề giống một nhóm "vài nghìn thành viên", Juno [quyết định](https://www.facebook.com/groups/j2team.community/permalink/409501726048620/) viết ra một công cụ thống kê tương tác của thành viên trong nhóm. Công cụ này sẽ giúp Ban quản trị có thể dễ dàng [loại bỏ](https://www.facebook.com/groups/j2team.community/permalink/409514332714026/) những thành viên tham gia mà KHÔNG hoạt động gì trong nhóm.
-
-## J2TeaM Community Ranking hoạt động như thế nào?
-
-Bằng cách thu thập dữ liệu của nhóm trong 30 ngày gần nhất, công cụ của Juno sẽ "chấm điểm" cho mọi tương tác của bạn với nhóm.
+Bằng cách thu thập dữ liệu của nhóm trong 30 ngày gần nhất, 4IT Community Ranking sẽ "chấm điểm" cho mọi tương tác của bạn với nhóm.
 
 Vậy tương tác là như thế nào?
 
@@ -21,33 +13,69 @@ Vậy tương tác là như thế nào?
 - Bạn **reaction** (Like/Love/Haha/Wow/Sad/Angry) trên một bài viết trong nhóm.
 - Bạn **chia sẻ** một bài viết trong nhóm về trang cá nhân ở chế độ **Công khai**.
 
-Tất cả những hành động trên đều là **tương tác với group**. Và hệ thống chấm điểm của mình dựa theo những hành động này. Đây đều là những hành động cơ bản trên Facebook, nên trong 30 ngày mà bạn không có bất cứ dấu hiệu nào cho thấy bạn đang ở trong group thì bạn được tự động kick ra ngoài.
+Tất cả những hành động trên đều là **tương tác với group**. Và hệ thống chấm điểm của mình dựa theo những hành động này. 
+Đây đều là những hành động cơ bản trên Facebook, nên trong 30 ngày mà bạn không có bất cứ dấu hiệu nào cho thấy bạn đang ở trong group thì bạn được tự động kick ra ngoài.
 
-Chú ý: Kick chứ không Block, bạn có quyền xin vào lại. Nhưng nếu bị Kick 3 lần khỏi nhóm thì bạn sẽ bị **Block vĩnh viễn**.
+Chú ý: Kick chứ không Block, bạn vẫn có quyền xin vào lại nhóm.
 
-## TÔI CÓ THỂ THEO DÕI THỨ HẠNG CỦA MÌNH Ở ĐÂU?
+### <a name="rule"></a>Quy tắc tính điểm
+- Mỗi **bài đăng chuẩn đủ hashtag** được cộng **5 điểm**
+- Mỗi lượt **bình luận** được cộng **2 điểm**
+- Mỗi lượt **reaction** được cộng **1 điểm** 
+- Mỗi bình luận **spam** bị **trừ 50 điểm**
+- Mỗi bài viết **spam** bị **trừ 200 điểm**
 
-Bạn có thể theo dõi **Top 50** thành viên có thứ hạng cao nhất [tại đây](http://code.junookyo.xyz/apps/j2team-community-ranking/index.php).
+*Điểm của bình luận và reaction được cộng cho cả người đăng bài và người tương tác.*
 
-Nếu chưa đủ điểm lọt vào danh sách trên thì bạn có thể tra thứ hạng thông qua bot chat J2TeaM: https://m.me/J2TeaM.pro/
+***Ví dụ:*** Trong 30 ngày vừa qua, bạn đăng một bài và được 50 reactions, 20 comments. Bạn cũng like 10 bài viết, và có 5 comment trên 5 bài viết của người khác.
+<br> Như vậy bạn sẽ có: 1\*5+50\*1+20\*2+10\*1+5\*2=115 điểm
 
-![bot chat](https://i.imgur.com/VHeQPWV.png)
+#### Các dạng spam
+
+- Bài viết **thiếu hashtag**, hoặc **hashtag sai chuẩn**, hashtag **không liên quan** đến nội dung bài viết
+- Bình luận trực tiếp trên bài viết    
+    - Bình luận bằng hình ảnh/sticker **không** bị tính là **spam** trừ các trường hợp bên dưới.
+    - Đối với bài viết có gán hashtag *#4it_share* các bình luận bằng **hình ảnh/sticker** hoặc bình luận dưới **3 ký tự** sẽ bị tính là spam (Các bạn tôn trọng người share một chút ạ, đừng kiểu như "tks", "hay","(y)"...) 
+    - Bình luận chỉ có **1 ký tự** sẽ bị tính là spam trừ trường hợp chơi minigame trên các bài viết có gắn hashtag *#4it_minigame* hoặc *#4it_game*
+- Trường hợp trả lời bình luận 
+    - Chỉ có **1 ký tự** sẽ bị tính là **spam** 
+    - Comment bằng hình ảnh/sticker **không** bị tính **spam** 
+- Các bình luận trên bài viết có gán hashtag *#4it_share* chỉ được cộng điểm nếu có từ **2 từ** trở lên (nhằm tôn trọng người chia sẻ)
+- Các bình luận "chấm",".","hóng","," luôn bị tính là spam
+
+#### Tra cứu spam
+Các bạn có thể tra cứu spam **[tại đây](spam.html)** 
+
+## BẢNG XẾP HẠNG
+Là nơi để kiểm tra thứ hạng cũng như xem ai là người dẫn đầu.
+- Top 50 và tra cứu thứ hạng **[tại đây](ranking.html)**
+- Top 50 của tháng trước **[tại đây](ranking.html?m=-1)**
+- Top 50 thành viên **đứng cuối** **[tại đây](ranking.html?action=bad)**
+
+Ngoài ra hệ thống cũng cung cấp API để tra cứu thứ hạng.
+
 
 ## THỨ HẠNG CAO THÌ TÔI CÓ NHẬN ĐƯỢC GÌ KHÔNG?
 
-Chơi game tất nhiên phải có thưởng. Với J2TeaM Community Ranking thì hệ thống sẽ tổng kết điểm vào mỗi ngày cuối tháng. Nếu bạn đạt hạng trong Top 3 thành viên có tổng điểm cao nhất thì bạn sẽ nhận được:
+Chơi game tất nhiên phải có thưởng. Với 4IT Community Ranking thì hệ thống sẽ tổng kết điểm vào mỗi ngày cuối tháng. Nếu bạn đạt hạng trong Top 3 thành viên có tổng điểm cao nhất thì bạn sẽ nhận được:
 
-- Tài khoản [Premium](http://code.junookyo.xyz/j2team-security/premium-upgrade/) của [J2TeaM Security](https://chrome.google.com/webstore/detail/j2team-security/hmlcjjclebjnfohgmgikjfnbmfkigocc) (hạn 30 ngày). Nếu tháng tiếp theo vẫn lọt Top 3 sẽ được cộng dồn hạn sử dụng.
-- Top 3 thành viên thứ hạng cao nhất sẽ xuất hiện trên Cover (ảnh bìa) của nhóm.
-- Nhận một số **ưu đãi**, **đặc quyền** trong nhóm J2TeaM Community.
+- Tài khoản One Drive 5TB (nếu chưa có).
+- Nhận được những tài nguyên **hot** được chia sẻ trong nhóm
+- Nhận một số **ưu đãi**, **đặc quyền** trong nhóm 4IT Community.
 - Nhận giải thưởng đặc biệt do thành viên trong nhóm tài trợ.
 - Được ưu tiên nếu có xảy ra tranh chấp với thành viên khác trong nhóm.
 - Được ưu tiên trong các đợt tuyển chọn thành viên vào ban Điều hành nhóm (Moderator).
 - ...
 
-**Đặc biệt:** Top 1 của mỗi tháng sẽ được tham gia nhóm bí mật **chỉ dành cho người lên được Thách Đấu**.
+## THỨ HẠNG THẤP THÌ CÓ LÀM SAO KHÔNG?
+Tất nhiên rồi có thưởng thì có phạt chứ
+- **Kick** khỏi nhóm
+- **Không** thể xem được một số tài nguyên yêu cầu thứ hạng 
 
 ## CÂU HỎI THƯỜNG GẶP (FAQ)
+
+### Khi nào thứ hạng của tôi được cập nhật?
+Hệ thống cập nhật thứ hạng hàng ngày vào lúc **8h sáng**.
 
 ### Nếu bài viết của tôi bị xóa thì tôi có bị mất điểm không?
 
@@ -57,7 +85,6 @@ Chơi game tất nhiên phải có thưởng. Với J2TeaM Community Ranking th�
 
 **Không**. Điểm sẽ bị giảm đi vì khi cập nhật thì hệ thống thu thập dữ liệu của 30 ngày trước đó chứ không từ một ngày nào cố định. Do đó, nếu bạn ngừng hoạt động thì điểm sẽ giảm dần. Sau 30 ngày không hoạt động thì điểm tự giảm xuống 0.
 
-![ranking](https://i.imgur.com/COg8ZI0.png)
 
 ### Tại sao điểm của tôi bị trừ (thấp hơn) so với ngày hôm trước?
 
@@ -71,8 +98,18 @@ Vậy nên nếu trong ngày `(n-31)` bạn kiếm được 500 điểm mà tron
 
 Thay vì thắc mắc "vì sao tôi bị trừ điểm" thì hãy thắc mắc "vì sao người khác cũng bị trừ điểm mà rank họ lại tăng". Vì thuật toán chấm điểm áp dụng lên TOÀN BỘ THÀNH VIÊN chứ không phải CHỈ MÌNH BẠN nên yếu tố quyết định thứ hạng ở đây là bạn có tương tác đủ nhiều mỗi ngày để bị trừ ít điểm hơn mọi người trong **ngày hôm sau** hay không. Hãy nhớ là tất cả cùng bị trừ điểm hoặc cộng điểm như nhau nên hoàn toàn công bằng. Không có sự thiên vị cho bất cứ ai cả!
 
-![rank](https://i.imgur.com/DQHSdUH.png)
+### Trên bảng xếp hạng tôi thấy có scores, vậy scores là gì?
 
-### Tại sao số thành viên được xếp hạng nhiều hơn số thành viên hiện tại của nhóm?
+Đơn giản score tính bằng tổng điểm chia cho tổng số bài viết hiện có, nhằm đánh giá xem bài viết có chất lượng hay không.
 
-Đọc câu trả lời [tại đây](https://www.facebook.com/groups/j2team.community/permalink/418817018450424/?comment_id=418821155116677&comment_tracking=%7B%22tn%22%3A%22R2%22%7D).
+### Bình luận thế nào thì bị coi là spam?
+Những bình luận như sau sẽ được coi là spam
+ - Bình luận chỉ có 1 2 ký tự
+ - Bình luận vô nghĩa
+ - Bình luận không liên quan gì đến nội dung bài viết
+ 
+### Tôi bị âm điểm làm sao để sửa?
+ 
+ Bạn bị trừ 50 điểm cho mỗi bình luận spam, để hết điểm âm bạn chỉ cần sửa lại những bình luận spam hoặc xóa đi.
+ Sau khi sửa/xóa xong bạn hãy chờ đến 8h sáng hôm sau hệ thống cập nhật lại sẽ hết.
+ 
