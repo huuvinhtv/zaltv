@@ -9,5 +9,4 @@ Những điều mà bạn cần biết nếu muốn tham gia [ZalTV Community](h
 - [Hệ thống xếp hạng thành viên](rank.md)
 - [Tra cứu thứ hạng](https://zaltv.ga)
 
-## Disclaimer
-[Tuyên bố từ chối trách nhiệm](disclaimer.md)
+
