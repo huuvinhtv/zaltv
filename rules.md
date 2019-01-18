@@ -75,4 +75,4 @@ Nếu thấy bài viết hoặc bình luận vi phạm nội quy, hãy dùng ch�
 
 Ban Quản Trị tuyệt đối **KHÔNG** có nhiệm vụ phải hỗ trợ các bạn qua Inbox hay Email cá nhân.
 
-P/S: Nội quy sẽ được sửa đổi, cập nhật theo thời gian sao cho phù hợp.
+**Chú ý**: Nội quy sẽ được sửa đổi, cập nhật 18/01/2019
