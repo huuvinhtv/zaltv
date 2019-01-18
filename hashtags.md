@@ -13,7 +13,8 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #zaltv_hoidap     | Hỏi đáp, thắc mắc                                |
 | #zaltv_thaoluan   | Thảo luận về chủ đề nào đó                       |
 | #zaltv_chiase     | Chia sẻ (tài liệu, sách, phần mềm, khóa học,...) |
-| #zaltv_chiasecode | Chia sẻ (code zaltv)                             |
+| #zaltv_chiasecode | Chia sẻ (code ZalTV)                             |
+| #zaltv_chiaseiptv | Chia sẻ (list iptv)                              |
 | #zaltv_thongbao   | Thông báo từ BQT                                 |
 | #zaltv_locmem     | Thông báo lọc mem                                |
 | #zaltv_lich       | Chia sẻ lịch bóng đá, giờ các trận đấu           |
