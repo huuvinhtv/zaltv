@@ -57,9 +57,9 @@ Ví dụ về một [bài viết](https://www.facebook.com/groups/zaltv/permalin
 
 ## NỘI QUY ĐĂNG BÌNH LUẬN
 
-- **KHÔNG** bình luận trống (không có chữ nào).
 - **KHÔNG** văng tục, bình luận vô văn hóa, chửi thề.
 - Bình luận **PHẢI** liên quan tới nội dung bài viết.
+- **KHÔNG** bình luận trống (không có chữ nào) trong nội dung bài viết.
 - Nội dung bài viết không vừa lòng thì góp ý một cách lịch sự, không chê bai quá đáng, khiêu khích. Hoặc đơn giản chỉ cần bỏ qua, đọc bài khác.
 - **KHÔNG** "chấm" (".") hoặc "hóng", hãy dùng chức năng "Bật thông báo cho bài viết" hoặc "Lưu bài viết" nếu bạn muốn theo dõi cập nhật của bài viết.
 - **KHÔNG** spam, hãy dùng chức năng "Sửa bình luận" thay vì bình luận liên tiếp trong thời gian ngắn.
