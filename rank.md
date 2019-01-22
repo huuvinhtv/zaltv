@@ -20,9 +20,9 @@ Chú ý: Kick chứ không Block, bạn vẫn có quyền xin vào lại nhóm.N
 
 ### <a name="rule"></a>Quy tắc tính điểm
 - Mỗi **bài đăng chuẩn đủ hashtag** được cộng **5 điểm**
-- Mỗi lượt **bình luận** được cộng **2 điểm**
-- Mỗi lượt **reaction** được cộng **2 điểm** 
-- Mỗi lượt **chia sẻ** được cộng **2 điểm** 
+- Mỗi lượt **bình luận** được cộng **1 điểm**
+- Mỗi lượt **reaction** được cộng **1 điểm** 
+- Mỗi lượt **chia sẻ** được cộng **1 điểm** 
 
 
 *Điểm của bình luận và reaction được cộng cho cả người đăng bài và người tương tác.*
