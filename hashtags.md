@@ -21,7 +21,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #zaltv_ungdung    | Chia sẻ ứng dụng                                 |
 | #zaltv_thugian    | Ảnh, video hoặc nội dung giải trí                |
 | #zaltv_huongdan   | Hướng dẫn lập trình hoặc chia sẻ kiến thức       |
-| #zaltv_nhatky     | Thông báo thành viên hoặc bài viết vi phạm       |
+| #zaltv_danhsachden| Thông báo thành viên hoặc bài viết vi phạm       |
 | #zaltv_baocao     | Báo cáo ninja, thành viên hoặc bài viết vi phạm  |
 | #zaltv_gopy       | Góp ý cho Ban Quản Trị nhóm                      |
 | #zaltv_tintuc     | Tin tức, cập nhật                                |
