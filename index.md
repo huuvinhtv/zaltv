@@ -1,6 +1,6 @@
 # ZalTV Community
 
-Những điều mà bạn cần biết nếu muốn tham gia [ZalTV Community](https://www.facebook.com/groups/zaltv/)
+Những điều mà bạn cần biết nếu muốn tham gia [ZalTV Community](https://www.facebook.com/groups/zaltv.community/)
 
 ## Liên kết
 
