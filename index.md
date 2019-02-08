@@ -13,5 +13,5 @@ Những điều mà bạn cần biết nếu muốn tham gia [ZalTV Community](h
 
 Các công cụ liệt kê dưới đây được đóng góp bởi cộng đồng:
 
-- [Mã hóa, bảo vệ liên kết](anlink.md) [https://anlink.huuvinh.tk](https://anlink.huuvinh.tk)
+-  [Mã hóa, bảo vệ liên kết](http://anlink.huuvinh.tk/) bởi [Hữu Vinh](https://www.facebook.com/huuvinh.vt)
 -  Tìm kiếm bài viết [#](https://#)
