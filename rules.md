@@ -23,7 +23,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 - Nếu đăng bài hỏi đáp, hãy **tìm hiểu trước qua Google** để tránh hỏi những vấn đề đã có sẵn câu trả lời. Hỏi phải nói có đầu có đuôi, nói rõ vấn đề vướng mắc, **KHÔNG** hỏi trống lóc.
 - Dùng chức năng tìm kiếm bài viết trong nhóm trước khi đăng để tránh việc **trùng lặp nội dung**.
 - **KHÔNG** sử dụng các liên kết rút gọn (ouo, adfly, link5s...) hoặc liên kết giới thiệu (ref) trong bài viết với mục đích kiếm lợi nhuận từ nhóm.
-- Nếu đăng bài viết về các list xem TV hãy sử dụng các trang như [pastebin.com](http://pastebin.com), [textuploader.com](https://textuploader.com) hoặc [gist.github.com](https://gist.github.com/) để đăng code thay vì paste thẳng code trong bài viết.
+- Nếu đăng bài viết về các list xem TV hãy sử dụng các trang như [yamcode.com](https://yamcode.com/),[pastebin.com](http://pastebin.com), [textuploader.com](https://textuploader.com) hoặc [gist.github.com](https://gist.github.com/) để đăng code thay vì paste thẳng code trong bài viết.
 - Nếu bài viết, tài nguyên không phải là của bạn thì hãy **ghi nguồn** khi chia sẻ vào nhóm để tôn trọng công sức của tác giả.
 - **KHÔNG** yêu cầu người khác cung cấp email trong bình luận. Nếu thực sự cần thiết phải chia sẻ qua email thì vui lòng sử dụng Google Forms.
 - **KHÔNG** chia sẻ code ZalTV ra bên ngoài nhóm ZalTV **BAND** vĩnh viễn.
