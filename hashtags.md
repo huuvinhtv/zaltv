@@ -17,6 +17,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #zaltv_chiaseiptv | Chia sẻ (list iptv)                              |
 | #zaltv_thongbao   | Thông báo từ BQT                                 |
 | #zaltv_locmem     | Thông báo lọc mem                                |
+| #zaltv_sukien     | Chia sẻ các sự kiện                              |
 | #zaltv_lich       | Chia sẻ lịch bóng đá, giờ các trận đấu           |
 | #zaltv_ungdung    | Chia sẻ ứng dụng                                 |
 | #zaltv_thugian    | Ảnh, video hoặc nội dung giải trí                |
