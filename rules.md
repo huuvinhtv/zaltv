@@ -41,11 +41,6 @@ Các bài viết có dạng như sau sẽ **KHÔNG** được duyệt:
 - Hỏi xin key, crack, phần mềm bản quyền.
 - Bài chỉ có mỗi liên kết mà không có mô tả gì (spam câu view).
 
-### VỀ BÀI LỌC ĐỊNH KỲ
-
-Hằng tháng vào ngày 15 sẻ có 1 bài lọc thành viên trong nhóm của BQT
-- **KHÔNG** tương tác bình luận trong bài lọc của BQT 
-- **KHÔNG** "chấm" (".") hoặc "hóng" trong bài lọc của BQT 
 
 ### VỀ HASHTAG
 
