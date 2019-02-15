@@ -19,7 +19,7 @@ Tất cả những hành động trên đều là **tương tác với group**. 
 Chú ý: Kick chứ không Block, bạn vẫn có quyền xin vào lại nhóm.Nhưng nếu bị Kick 3 lần khỏi nhóm thì bạn sẽ bị **Block vĩnh viễn**.
 
 ### <a name="rule"></a>Quy tắc tính điểm
-- Mỗi **bài đăng chuẩn đủ hashtag** được cộng **5 điểm**
+- Mỗi **bài đăng chuẩn đủ hashtag** được cộng **3 điểm**
 - Mỗi lượt **bình luận** được cộng **1 điểm**
 - Mỗi lượt **reaction** được cộng **1 điểm** 
 - Mỗi lượt **chia sẻ** được cộng **1 điểm** 
