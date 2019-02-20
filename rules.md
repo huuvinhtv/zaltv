@@ -26,11 +26,11 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 - Nếu đăng bài viết về các list xem TV hãy sử dụng các trang như [yamcode.com](https://yamcode.com/), [pastebin.com](http://pastebin.com), [textuploader.com](https://textuploader.com) hoặc [gist.github.com](https://gist.github.com/) để đăng code thay vì paste thẳng code trong bài viết.
 - Nếu bài viết, tài nguyên không phải là của bạn thì hãy **ghi nguồn** khi chia sẻ vào nhóm để tôn trọng công sức của tác giả.
 - **KHÔNG** yêu cầu người khác cung cấp email trong bình luận. Nếu thực sự cần thiết phải chia sẻ qua email thì vui lòng sử dụng Google Forms.
-- **KHÔNG** chia sẻ code ZalTV ra bên ngoài nhóm ZalTV **BAN** vĩnh viễn.
+- **KHÔNG** chia sẻ code ZalTV ra bên ngoài nhóm ZalTV Community **BAN** vĩnh viễn.
 
 ### VỀ CHỦ ĐỀ
 
-Nhóm được quản lý bởi [ZalTV](https://www.google.com.vn/search?q=zaltv) nên ưu tiên chủ đề về ZalTV, thảo luận các app xem tv. Chấp nhận các bài giải trí (miễn là không quá nhảm).
+Nhóm được quản lý bởi [ZalTV Community](https://www.google.com.vn/search?q=zaltv) nên ưu tiên chủ đề về ZalTV, thảo luận các app xem tv. Chấp nhận các bài giải trí (miễn là không quá nhảm).
 
 Các bài viết có dạng như sau sẽ **KHÔNG** được duyệt:
 - Hỏi hoặc chia sẻ cách HACK tài khoản mạng xã hội (Facebook, Google,...) của người khác.
