@@ -18,7 +18,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 
 ### VỀ NỘI DUNG
 - Sử dụng tiếng Việt, có dấu, tránh viết tắt. Tuyệt đối **KHÔNG** được sử dụng teen code. **KHÔNG** sử dụng các từ ngữ tục tĩu, khiếm nhã, thiếu văn hóa.
-- Sử dụng hashtag để phân loại nội dung bài viết, giúp mọi người dễ dàng tìm bài khi có thắc mắc. Xem thêm cụ thể tại phần [về hashtag](hashtags.md).
+- Sử dụng hashtag để phân loại nội dung bài viết, giúp mọi người dễ dàng tìm bài khi có thắc mắc. Xem thêm cụ thể tại phần về [hashtag](hashtags.md).
 - **KHÔNG** đăng bài viết quảng cáo (rao vặt, bán sim,...). 
 - Nếu đăng bài hỏi đáp, hãy **tìm hiểu trước qua Google** để tránh hỏi những vấn đề đã có sẵn câu trả lời. Hỏi phải nói có đầu có đuôi, nói rõ vấn đề vướng mắc, **KHÔNG** hỏi trống lóc.
 - Dùng chức năng tìm kiếm bài viết trong nhóm trước khi đăng để tránh việc **trùng lặp nội dung**.
@@ -70,4 +70,4 @@ Nếu thấy bài viết hoặc bình luận vi phạm nội quy, hãy dùng ch�
 
 Ban Quản Trị tuyệt đối **KHÔNG** có nhiệm vụ phải hỗ trợ các bạn qua Inbox hay Email cá nhân.
 
-**Chú ý**: Nội quy sẽ được sửa đổi, cập nhật 18/01/2019
+**Chú ý**: Nội quy sẽ được sửa đổi, cập nhật 19/02/2019
