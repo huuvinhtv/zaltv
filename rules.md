@@ -2,7 +2,7 @@
 
 # NỘI QUY NHÓM ZALTV COMMUNITY
 
-Để tránh việc bị Kick, Ban hoặc bị xóa bài mà không biết nguyên nhân tại sao, đề nghị các bạn vui lòng **đọc kỹ nội quy** trước khi tham gia nhóm.
+Để tránh việc bị **Kick**, **Ban** hoặc **bị xóa bài** mà không biết nguyên nhân tại sao, đề nghị các bạn vui lòng **đọc kỹ nội quy** trước khi tham gia nhóm.
 
 ## NỘI QUY VỀ TÀI KHOẢN
 
