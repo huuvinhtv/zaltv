@@ -28,9 +28,8 @@ Chú ý: Kick chứ không Block, bạn vẫn có quyền xin vào lại nhóm.N
 *Điểm của bình luận và reaction được cộng cho cả người đăng bài và người tương tác.*
 
 ## THỨ HẠNG THẤP THÌ CÓ LÀM SAO KHÔNG?
-Tất nhiên rồi có thưởng thì có phạt chứ
-- **Kick** khỏi nhóm
-- **Không** thể xem được một số tài nguyên yêu cầu thứ hạng 
+- **BAN** vĩnh viễn khỏi nhóm.
+- **Không** thể xem được một số tài nguyên yêu cầu thứ hạng.
 
 ## CÂU HỎI THƯỜNG GẶP (FAQ)
 
