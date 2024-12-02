@@ -21,8 +21,6 @@ Những điều bạn cần biết để có thể xem link iptv được chia s
 
 - **Bước 7:** Sau khi các bạn đăng ký thành công sẽ có email gửi về email thông tin đăng nhập các bạn bạn [đăng nhập](https://client.123host.vn/?/clientarea/)
 
-![buoc1-6](assets/img/buoc1-6.png)
-
 - **Bước 8:** Truy cập vào [Page ZalTV](https://www.facebook.com/zaltv.gq) nhắn tin tên mà bạn đã đăng ký ở trên xong chờ gửi link cho các bạn.
 
 - **Bước 9:** Tải App Tivimate, OTT Navigator, Televizo... để nhập list được gửi từ messger.
@@ -35,6 +33,7 @@ Những điều bạn cần biết để có thể xem link iptv được chia s
 | OTT Navigator 1.7.1.6   | [Download APK](https://github.com/LamBassVN/AIO-APPS/raw/master/OTT-Navigator-IPTV_1.7.1.6_Mod.apk)|
 | Televizo Pre Crack lambass    | [Download APK](https://lambassvn.github.io/Televizo-IPTV_Premium_LamBass_2023.apk)|
 | Televizo Pre Crack phaptx5    | [Download APK](https://www.mediafire.com/file/u2h2outpzqfojb6/Televizo_v1.9.1.5_Premium_arm7.apk/file)|
+
 
 * Vì sao tôi phải đăng ký ở **bước 1**? Do Server cần máy chủ ở VN nên cần phải có thêm Lưu Lượng lưu trữ để có thể chia sẻ cho các bạn.
 * Các bạn nào không muốn đăng ký thì có thể có bỏ qua bài hướng dẫn này xin cảm ơn.
