@@ -2,7 +2,7 @@
 
 Những điều bạn cần biết để có thể xem link iptv được chia sẻ
 
-- **Bước 1:** Bạn bấm [đăng ký](https://123host.vn/hosting-mien-phi.html?utm_source=INV&utm_medium=FHREF&utm_campaign=131954)
+- **Bước 1:** Bạn bấm nút [đăng ký](https://123host.vn/hosting-mien-phi.html?utm_source=INV&utm_medium=FHREF&utm_campaign=131954)
 
 - **Bước 2:** Bạn bấm vào nút **đăng ký** trên web
 ![buoc1-1](assets/img/buoc1-1.png)
