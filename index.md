@@ -14,5 +14,5 @@ Những điều mà bạn cần biết nếu muốn tham gia [ZalTV Community](h
 
 Các công cụ liệt kê dưới đây được đóng góp bởi cộng đồng:
 
--  [Mã hóa, bảo vệ liên kết](https://tranvinh.ooo/) bởi [Hữu Vinh](https://fb.me/huuvinh.vt)
+-  [Mã hóa, bảo vệ liên kết](https://vinh.cf/) bởi [Hữu Vinh](https://fb.me/huuvinh.vt)
 -  Tìm kiếm bài viết [#](https://#)
