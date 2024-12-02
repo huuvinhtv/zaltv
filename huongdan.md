@@ -27,12 +27,12 @@ Những điều bạn cần biết để có thể xem link iptv được chia s
 
 | App            | Link apk|
 |--------------------|--------------------------------------------------|
-| Tivimate Pre 5x (bản gốc)    | [Download APK](https://files.tivimate.com/tivimate.apk)|
-| Tivimate Crack phaptx5   | [Download APK](https://www.mediafire.com/folder/nkult5ncvdbke/Tivimate)|
-| Tivimate Crack lambass   | [Download APK](https://lambassvn.github.io/TiviMate-IPTV_Premium_LamBass_2024.apk)|
-| OTT Navigator 1.7.1.6   | [Download APK](https://github.com/LamBassVN/AIO-APPS/raw/master/OTT-Navigator-IPTV_1.7.1.6_Mod.apk)|
-| Televizo Pre Crack lambass    | [Download APK](https://lambassvn.github.io/Televizo-IPTV_Premium_LamBass_2023.apk)|
-| Televizo Pre Crack phaptx5    | [Download APK](https://www.mediafire.com/file/u2h2outpzqfojb6/Televizo_v1.9.1.5_Premium_arm7.apk/file)|
+| Tivimate Pre 5x (bản gốc) | [Download APK](https://files.tivimate.com/tivimate.apk)|
+| Tivimate Crack phaptx5 | [Download APK](https://www.mediafire.com/folder/nkult5ncvdbke/Tivimate)|
+| Tivimate Crack lambass | [Download APK](https://lambassvn.github.io/TiviMate-IPTV_Premium_LamBass_2024.apk)|
+| OTT Navigator Crack lambass | [Download APK](https://github.com/LamBassVN/AIO-APPS/raw/master/OTT-Navigator-IPTV_1.7.1.6_Mod.apk)|
+| Televizo Pre Crack lambass | [Download APK](https://lambassvn.github.io/Televizo-IPTV_Premium_LamBass_2023.apk)|
+| Televizo Pre Crack phaptx5 | [Download APK](https://www.mediafire.com/file/u2h2outpzqfojb6/Televizo_v1.9.1.5_Premium_arm7.apk/file)|
 
 
 * Vì sao tôi phải đăng ký ở **bước 1**? Do Server cần máy chủ ở VN nên cần phải có thêm Lưu Lượng lưu trữ để có thể chia sẻ cho các bạn.
