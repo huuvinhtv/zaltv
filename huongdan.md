@@ -20,11 +20,13 @@ Những điều bạn cần biết để có thể xem link iptv được chia s
 ![buoc1-5](assets/img/buoc1-5.png)
 
 - **Bước 7:** Sau khi các bạn đăng ký thành công sẽ có email gửi về email thông tin đăng nhập các bạn bạn [đăng nhập](https://client.123host.vn/?/clientarea/)
+![buoc1-6](assets/img/buoc1-6.png)
 
 - **Bước 8:** Truy cập vào [Page ZalTV](https://www.facebook.com/zaltv.gq) nhắn tin tên mà bạn đã đăng ký ở trên xong chờ gửi link cho các bạn.
+
 - **Bước 9:** Tải App Tivimate, OTT Navigator, Televizo... để nhập list được gửi từ messger.
 
-| App            | Link download apk|
+| App            | Link apk|
 |--------------------|--------------------------------------------------|
 | Tivimate Pre 5x (bản gốc)    | [Download APK](https://files.tivimate.com/tivimate.apk)|
 | Tivimate Crack phaptx5   | [Download APK](https://www.mediafire.com/folder/nkult5ncvdbke/Tivimate)|
