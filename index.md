@@ -8,6 +8,7 @@ Những điều mà bạn cần biết nếu muốn tham gia [ZalTV Community](h
 - [Danh sách hashtag](hashtags.md)
 - [Hệ thống xếp hạng thành viên](rank.md)
 - [Tra cứu thứ hạng](https://zaltv.ga/rank)
+- [Hướng dẫn](huongdan.md)
 
 ## Công cụ
 
