@@ -22,6 +22,7 @@ Những điều bạn cần biết để có thể xem link iptv được chia s
 - **Bước 7:** Sau khi các bạn đăng ký thành công sẽ có email gửi về email thông tin đăng nhập các bạn bấm [đăng nhập](https://client.123host.vn/?/clientarea/)
 
 - **Bước 8:** Truy cập vào [Page ZalTV](https://www.facebook.com/zaltv.gq) nhắn tin tên mà bạn đã đăng ký ở trên xong chờ gửi link cho các bạn.
+![buoc1-7](assets/img/buoc1-7.png)
 
 - **Bước 9:** Tải App Tivimate, OTT Navigator, Televizo... để nhập list được gửi từ messger.
 
