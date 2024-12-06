@@ -36,7 +36,7 @@ Những điều bạn cần biết để có thể xem link iptv được chia s
 
 
 * Vì sao tôi phải đăng ký ở **bước 1**? Do Server cần máy chủ ở VN nên cần phải có thêm Lưu Lượng lưu trữ để có thể chia sẻ cho các bạn.
-* Các bạn nào không muốn đăng ký thì có thể có bỏ qua bài hướng dẫn này xin cảm ơn. Tặng các bạn List cơ bản http://playlist.zaltv.gq/tv
+* Các bạn nào không muốn đăng ký thì có thể có bỏ qua bài hướng dẫn này xin cảm ơn.
   
 **Chú ý**: Các bạn được chia sẻ lung tung ra bên ngoài sẽ **khóa link vĩnh viễn**.
 
