@@ -16,7 +16,7 @@ Những điều bạn cần biết để có thể xem link iptv được chia s
 - **Bước 5:** Điền **thông tin khách hàng** mục có *
 ![buoc1-4](assets/img/buoc1-4.png)
 
-- **Bước 6:** Sau khi điển hết thông tin kéo xuống bấm **hoàn thành**
+- **Bước 6:** Sau khi điển hết thông tin kéo xuống bấm **hoàn tẩt**
 ![buoc1-5](assets/img/buoc1-5.png)
 
 - **Bước 7:** Sau khi các bạn đăng ký thành công sẽ có email gửi về email thông tin đăng nhập các bạn bấm [đăng nhập](https://client.123host.vn/?/clientarea/)
