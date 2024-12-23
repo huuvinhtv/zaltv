@@ -1,4 +1,4 @@
-# HƯỚNG DẪN XEM ZALTV 
+# HƯỚNG DẪN ZALTV 
 
 Những điều bạn cần biết để có thể xem link được chia sẻ
 
