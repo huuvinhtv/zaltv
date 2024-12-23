@@ -1,6 +1,6 @@
-# HƯỚNG DẪN CÁCH XEM ZALTV IPTV
+# HƯỚNG DẪN XEM ZALTV 
 
-Những điều bạn cần biết để có thể xem link iptv được chia sẻ
+Những điều bạn cần biết để có thể xem link được chia sẻ
 
 - **Bước 1:** Bạn bấm nút [đăng ký](https://123host.vn/hosting-mien-phi.html?utm_source=INV&utm_medium=FHREF&utm_campaign=131954)
 
