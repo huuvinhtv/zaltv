@@ -30,13 +30,16 @@ Những điều bạn cần biết để có thể xem link iptv được chia s
 | Tivimate Pre 5x (bản gốc) | [Download](https://files.tivimate.com/tivimate.apk)|
 | Tivimate Crack phaptx5 | [Download](https://www.mediafire.com/folder/nkult5ncvdbke/Tivimate)|
 | Tivimate Crack lambass | [Download](https://lambassvn.github.io/TiviMate-IPTV_Premium_LamBass_2024.apk)|
+| OTT Navigator for Phones/Tablets (bản gốc) | [Download](https://play.google.com/store/apps/details?id=appnovatica.stbp)|
+| OTT Navigator for TV (bản gốc) | [Download](https://play.google.com/store/apps/details?id=appnovatica.tv)|
 | OTT Navigator Crack lambass | [Download](https://github.com/LamBassVN/AIO-APPS/raw/master/OTT-Navigator-IPTV_1.7.1.6_Mod.apk)|
+| Televizo Pre (bản gốc) | [Download](https://play.google.com/store/apps/details?id=com.ottplay.ottplay)|
 | Televizo Pre Crack lambass | [Download](https://lambassvn.github.io/Televizo-IPTV_Premium_LamBass_2023.apk)|
 | Televizo Pre Crack phaptx5 | [Download](https://www.mediafire.com/file/u2h2outpzqfojb6/Televizo_v1.9.1.5_Premium_arm7.apk/file)|
 
 
 * Vì sao tôi phải đăng ký ở **bước 1**? Do Server cần máy chủ ở VN nên cần phải có thêm Lưu Lượng lưu trữ để có thể chia sẻ cho các bạn.
-* Các bạn nào không muốn đăng ký thì có thể có bỏ qua bài hướng dẫn này xin cảm ơn.
+* Các bạn nào không muốn đăng ký thì có thể có bỏ qua bài hướng dẫn này mình xin cảm ơn.
   
 **Chú ý**: Các bạn được chia sẻ lung tung ra bên ngoài sẽ **khóa link vĩnh viễn**.
 
