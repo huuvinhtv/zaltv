@@ -23,7 +23,7 @@ Những điều bạn cần biết để có thể xem link được chia sẻ
 
 - **Bước 8:** Truy cập vào facebook [Page ZalTV](https://www.facebook.com/zaltv.gq) bấm vào **Nhắn tin** nội dung tên email mà bạn đã đăng ký ở trên xong chờ xét duyệt gửi link cho các bạn nha
 
-- **Bước 9:** Tải App Tivimate, OTT Navigator, Televizo... để nhập list được gửi từ messger.
+- **Bước 9:** Tải App Tivimate, OTT Navigator, Televizo... để nhập link được gửi từ messger
 
 | App            | Link apk|
 |--------------------|--------------------------------------------------|
